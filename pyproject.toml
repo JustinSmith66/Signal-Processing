@@ -1,9 +1,19 @@
 [tool.poetry]
 name = "signal_processing_basics"
-version = "0.1.5"
+version = "0.1.8"
 description = "Signal Processing Basics for Condition Monitoring Engineers"
 authors = ["Justin Smith <66smithjustin@gmail.com>"]
 readme = "README.md"
+maintainers = [
+"Justin Smith <66smithjustin@gmail.com>"
+]
+
+[tool.poetry.urls]
+#homepage = "https://python-poetry.org/"
+Repository = "https://github.com/JustinSmith66/Signal-Processing"
+#documentation = "https://python-poetry.org/docs/"
+#"Bug Tracker" = "https://github.com/python-poetry/poetry/issues"
+
 
 [tool.poetry.dependencies]
 python = "^3.11"
