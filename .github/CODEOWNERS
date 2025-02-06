@@ -1,0 +1,19 @@
+# This is a comment line and won't be processed.
+# Each line represents a path pattern followed by one or more owners.
+
+# Paths without a specific owner default to the overall repository owner(s)
+* @JustinSmith66
+
+# Specific directory ownership for a Python library
+/src/ @JustinSmith66
+/tests/ @JustinSmith66
+/docs/ @JustinSmith66
+/examples/ @JustinSmith66
+
+# Assigning different owners to specific files or directories
+# Example:
+# /config/ @DifferentUser
+# /setup.py @AnotherUser
+
+# Ensure that the CODEOWNERS file is located in the root of the repository, .github/, or docs/
+# Also, remember to commit and push the file to your repository to enforce the ownership rules
