@@ -4,7 +4,9 @@ This Python library is intended to be used for signal processing in condition mo
 This module is focused on the signal processing methods which are commonly used in vibration based condition monitorig. For example the processing methods used in MEV781 - Vibration Based Condition Montioring and other useful functions frequently used in signal processing investigations.
 
 # Installation
-To use this library, clone the repository and import the signalprocessing.py file in your Python script.
+```
+pip install signal_processing_basics
+```
 
 # Errors:
 Please feel free to contact me, Justin Smith, through 66smithjustin@gmail.com if you notice any issues.
