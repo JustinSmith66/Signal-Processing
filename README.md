@@ -13,7 +13,6 @@ Please feel free to contact me, Justin Smith, through 66smithjustin@gmail.com if
 I am currently a mechanical engineering Masters candidate at the University of Pretoria performing research in the Center for Asset Integrity Management. I am focusing on vibration based condition monitoring systems for axial fans. Linkedin: https://www.linkedin.com/in/justin-s-507338116/
 
 # To Do's
-Add references for all the functions and ask Dr Diamond if i can publish the get_rpm BGC code
 Add useful code from BTT test notebooks (such as the get_threshold function, get_dataframe function and so on)
 Update the get_displacement_signal function to handle a MPR signal and not just an OPR signal
 Update filter funtion to use filtfilt as its a function of past and future so the filter wont lag the input (https://stackoverflow.com/questions/13740348/how-to-apply-a-filter-to-a-signal-in-python/13740532#13740532)
